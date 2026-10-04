@@ -115,7 +115,7 @@ class TayyabImam:
 
 | | |
 |---|---|
-| **AI Engineer** · FiveRivers Technologies · 2026 – present | AGENT8088 local-first agent harness (50 merged PRs): LLM inference across Ollama, vLLM and OpenAI-compatible providers, tool-call recovery, memory |
+| **AI Intern** · FiveRivers Technologies · 2026 – present | AGENT8088 local-first agent harness (50 merged PRs): LLM inference across Ollama, vLLM and OpenAI-compatible providers, tool-call recovery, memory |
 | **GenAI Intern** · Systems Limited, Lahore · Oct 2025 – Mar 2026 | GenAI pipelines with LangChain / LangGraph / LangSmith, RAG and multi-agent systems on FAISS / Chroma, Azure AI Foundry, ProposalIQ RFP generator |
 | **Machine Learning Intern** · PureLogics, Lahore · Aug – Oct 2024 | Sentiment analysis, CNN image classifiers, breast-cancer classification, EDA and visualization |
 
