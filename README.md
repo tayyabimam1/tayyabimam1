@@ -103,11 +103,11 @@ class TayyabImam:
 
 ## Open source
 
-**55 merged pull requests** — mostly reliability work that makes agents actually finish their tasks.
+Building agent harnesses and tooling for the AI-agent ecosystem, in the open.
 
 | Project | Contribution |
 |---|---|
-| [**AGENT8088**](https://github.com/palindrome-rl/AGENT8088) · Palindrome Research Labs | 50 merged PRs to an agent harness for small local models: malformed tool-arg recovery, mem0 memory fixes, slash-command and gateway-setup fixes, per-provider temperature, vLLM context probing, opt-in LibreOffice installers |
+| [**AGENT8088**](https://github.com/palindrome-rl/AGENT8088) · Palindrome Research Labs | Developed a local-first agent harness: multi-provider inference, permission modes and sandboxing, persistent memory, messaging gateways and MCP server mode |
 | [**awesome-ai-agent-stack**](https://tayyabimam1.github.io/awesome-ai-agent-stack/) | Maintainer — pruned 162 stale repos, added 222 vetted ones, site redesign with SEO and Actions deploys |
 | [**freellmapi**](https://github.com/tayyabimam1/freellmapi) (fork) | Custom OpenAI-compatible endpoint support for a free-tier LLM gateway |
 
@@ -115,9 +115,8 @@ class TayyabImam:
 
 | | |
 |---|---|
-| **AI Intern** · FiveRivers Technologies · 2026 – present | AGENT8088 local-first agent harness (50 merged PRs): LLM inference across Ollama, vLLM and OpenAI-compatible providers, tool-call recovery, memory |
-| **GenAI Intern** · Systems Limited, Lahore · Oct 2025 – Mar 2026 | GenAI pipelines with LangChain / LangGraph / LangSmith, RAG and multi-agent systems on FAISS / Chroma, Azure AI Foundry, ProposalIQ RFP generator |
-| **Machine Learning Intern** · PureLogics, Lahore · Aug – Oct 2024 | Sentiment analysis, CNN image classifiers, breast-cancer classification, EDA and visualization |
+| **Data Science/AI Intern** · FiveRivers Technologies (Palindrome Research Labs) · Jul 2026 – present | Developed AGENT8088, a local-first agent harness; tested local models with Ollama and vLLM; benchmarked rival harnesses |
+| **AI Intern** · Systems Limited, Lahore · Oct 2025 – Mar 2026 | GenAI pipelines with LangChain / LangGraph / LangSmith, RAG and multi-agent systems on FAISS / Chroma, Azure AI Foundry, ProposalIQ RFP generator |
 
 ## GitHub stats
 
