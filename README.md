@@ -29,7 +29,6 @@ class TayyabImam:
     education = "BS (Hons) Computer Science — Forman Christian College, Lahore (2021–2025)"
     focus     = ["multi-agent systems", "agent harnesses", "RAG", "LLM tooling"]
     stack     = ["Python", "LangGraph", "FastAPI", "PyTorch", "Azure AI Foundry", "TypeScript"]
-    award     = "Best Senior Project Research Award — Compspex 2025 (DeepSight)"
     now       = "Shipping fixes and features to AGENT8088; curating awesome-ai-agent-stack"
 ```
 
@@ -43,7 +42,7 @@ class TayyabImam:
   <tr>
     <td width="50%" valign="top">
       <h3>DeepSight — Real-time Deepfake Video Detection</h3>
-      <p><img src="https://img.shields.io/badge/-Award%20Winner-f59e0b?style=flat-square&logo=github&logoColor=white"/> Hybrid <b>ResNeXt-50 + LSTM + attention</b> model trained on DFDC, served via FastAPI to a React web app and a Chrome extension that flags deepfakes while you browse. Best Senior Project Research Award, Compspex 2025.</p>
+      <p>Hybrid <b>CNN + RNN (PSO-optimized)</b> model trained on DFDC and FaceForensics++, served via FastAPI to a React web app and a browser extension for real-time video analysis.</p>
       <p><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/></p>
       <a href="https://github.com/Maverick474/DeepSight_FYP">Source</a>
     </td>
@@ -116,8 +115,9 @@ class TayyabImam:
 
 | | |
 |---|---|
-| **Freelance AI & Software Engineer** · Fiverr & Technolys · 2025 – present | Agentic automation (LangGraph, n8n) and software delivery for remote clients |
-| **Machine Learning Intern** · PureLogics, Lahore · Aug – Oct 2024 | Sentiment analysis, cancer classification, NLP chatbot, CNN/RNN/transformer applications, data visualization |
+| **AI Engineer** · FiveRivers Technologies · 2026 – present | AGENT8088 local-first agent harness (50 merged PRs): LLM inference across Ollama, vLLM and OpenAI-compatible providers, tool-call recovery, memory |
+| **GenAI Intern** · Systems Limited, Lahore · Oct 2025 – Mar 2026 | GenAI pipelines with LangChain / LangGraph / LangSmith, RAG and multi-agent systems on FAISS / Chroma, Azure AI Foundry, ProposalIQ RFP generator |
+| **Machine Learning Intern** · PureLogics, Lahore · Aug – Oct 2024 | Sentiment analysis, CNN image classifiers, breast-cancer classification, EDA and visualization |
 
 ## GitHub stats
 
