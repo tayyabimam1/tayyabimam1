@@ -40,6 +40,15 @@ class TayyabImam:
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>AGENT8088 — Local-First Agent Harness</h3>
+      <p>Open-source agent harness for small local models, built with the team at Palindrome Research Labs. Three permission modes, OS-level sandboxing, 12 model providers with fallback and escalation, persistent memory, MCP server mode and messaging gateways.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/vLLM-0A0A0A?style=flat-square"/> <img src="https://img.shields.io/badge/MCP-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></p>
+      <a href="https://github.com/palindrome-rl/AGENT8088">Source</a>
+    </td>
+    <td width="50%"></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>DeepSight — Real-time Deepfake Video Detection</h3>
       <p>Hybrid <b>CNN + RNN (PSO-optimized)</b> model trained on DFDC and FaceForensics++, served via FastAPI to a React web app and a browser extension for real-time video analysis.</p>
       <p><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/></p>
