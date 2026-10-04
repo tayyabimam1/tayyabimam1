@@ -26,6 +26,7 @@
 ```python
 class TayyabImam:
     education = "BS (Hons) Computer Science — Forman Christian College, Lahore (2021–2025)"
+    role      = "Software Engineer"
     focus     = ["multi-agent systems", "agent harnesses", "RAG", "LLM tooling"]
     stack     = ["Python", "LangGraph", "FastAPI", "PyTorch", "Azure AI Foundry", "TypeScript"]
     now       = "Shipping fixes and features to AGENT8088; curating awesome-ai-agent-stack"
@@ -76,21 +77,6 @@ class TayyabImam:
     </td>
   </tr>
 </table>
-
-<details>
-<summary><b>More projects</b></summary>
-<br>
-
-| Project | What it is | Stack |
-|---|---|---|
-| Agentic RAG | Retrieval pipeline with agentic query routing over Chroma | LangChain, Chroma |
-| Pakistan Crypto State 2026 | Long-form research report on the crypto landscape in Pakistan | Research, Markdown/HTML |
-| Voice → Text feature extraction | Speech recognition + classification of transcribed content into categories | Python, ML |
-| Carbon Emission Calculator | Google Maps API + UK government emission factors to estimate per-employee travel emissions | Python, Maps API |
-| Sentiment Analysis (Amazon reviews) | NLP pipeline built during PureLogics internship | NLTK, Scikit-learn |
-| Breast Cancer Classification | Early-detection predictive model | Scikit-learn |
-
-</details>
 
 ## Tech stack
 
