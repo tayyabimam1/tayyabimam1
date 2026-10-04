@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+multi-agent+systems+with+LangGraph;Production+RAG+pipelines+on+Azure+AI;Odoo+19+%2B+FBR+e-invoicing+integrations;Deep+learning+for+vision+%26+NLP" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+multi-agent+systems+with+LangGraph;Shipping+reliability+fixes+to+agent+harnesses;Production+RAG+pipelines+on+Azure+AI;Odoo+19+%2B+FBR+e-invoicing+integrations;Deep+learning+for+vision+%26+NLP" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -75,9 +75,9 @@ class TayyabImam:
     </td>
     <td width="50%" valign="top">
       <h3>Awesome AI Agent Stack</h3>
-      <p>A 500+ entry, layer-by-layer map of the AI-agent ecosystem — coding agents, skills, frameworks, memory, RAG, MCP, gateways, inference, evals — curated and verified against the GitHub API.</p>
-      <p><img src="https://img.shields.io/badge/Awesome-List-fc60a8?style=flat-square&logo=awesomelists&logoColor=white"/> <img src="https://img.shields.io/badge/CC0-Public%20Domain-lightgrey?style=flat-square"/></p>
-      <a href="https://github.com/tayyabimam1/awesome-ai-agent-stack">Repository</a>
+      <p>A curated map of <b>3,000+ open-source AI-agent tools</b> — coding agents, frameworks, MCP servers, RAG, memory, local LLMs — sorted by stack layer and ranked by GitHub stars. Searchable site with full SEO and GitHub Actions deploys.</p>
+      <p><img src="https://img.shields.io/badge/Awesome-List-fc60a8?style=flat-square&logo=awesomelists&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/></p>
+      <a href="https://tayyabimam1.github.io/awesome-ai-agent-stack/">Live site</a>
     </td>
   </tr>
 </table>
@@ -115,6 +115,16 @@ class TayyabImam:
 **Frontend**<br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
+## Open source
+
+**55 merged pull requests** — mostly reliability work that makes agents actually finish their tasks.
+
+| Project | Contribution |
+|---|---|
+| [**AGENT8088**](https://github.com/palindrome-rl/AGENT8088) · Palindrome Research Labs | 50 merged PRs to an agent harness for small local models: malformed tool-arg recovery, mem0 memory fixes, slash-command and gateway-setup fixes, per-provider temperature, vLLM context probing, opt-in LibreOffice installers |
+| [**awesome-ai-agent-stack**](https://tayyabimam1.github.io/awesome-ai-agent-stack/) | Maintainer — pruned 162 stale repos, added 222 vetted ones, site redesign with SEO and Actions deploys |
+| [**freellmapi**](https://github.com/tayyabimam1/freellmapi) (fork) | Custom OpenAI-compatible endpoint support for a free-tier LLM gateway |
+
 ## Experience
 
 | | |
@@ -140,7 +150,7 @@ class TayyabImam:
 
 ## Curated
 
-- [**awesome-ai-agent-stack**](https://github.com/tayyabimam1/awesome-ai-agent-stack) — 500+ tools for building AI agents, organized layer by layer. Star it if it saves you a search.
+- [**awesome-ai-agent-stack**](https://tayyabimam1.github.io/awesome-ai-agent-stack/) — 3,000+ open-source tools for building AI agents, sorted by layer and ranked by stars. Star it if it saves you a search.
 
 ## Let's connect
 
