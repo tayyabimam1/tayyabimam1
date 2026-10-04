@@ -25,7 +25,6 @@
 
 ```python
 class TayyabImam:
-    role      = "AI / ML Engineer"
     education = "BS (Hons) Computer Science — Forman Christian College, Lahore (2021–2025)"
     focus     = ["multi-agent systems", "agent harnesses", "RAG", "LLM tooling"]
     stack     = ["Python", "LangGraph", "FastAPI", "PyTorch", "Azure AI Foundry", "TypeScript"]
